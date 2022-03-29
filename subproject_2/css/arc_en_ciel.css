@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.arcEnCiel{
+    width: 800px;
+    height: 600px;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+    background-color: black;
+}
